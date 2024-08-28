@@ -27,7 +27,7 @@
 <hr>
 <h1 align="center">My GitHub Statistics</h1>
 <div style="display: flex; justify-content: space-between;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=admv2001&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&title_color=ffffff&icon_color=79ff97" alt="admv2001" />
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=admv2001&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&ring=79ff97&fire=79ff97&currStreakLabel=ffffff" alt="admv2001" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=admv2001&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&title_color=ffffff&icon_color=79ff97" alt="admv2001" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=admv2001&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&ring=79ff97&fire=79ff97&currStreakLabel=ffffff" alt="admv2001" />
 </div>
 
