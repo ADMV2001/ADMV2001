@@ -15,7 +15,7 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/minula vihanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minula vihanga" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Minula Vihanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minula vihanga" height="30" width="40" /></a>
 <a href="https://fb.com/minula vihanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minula vihanga" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.x_20.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.x_20.01" height="30" width="40" /></a>
 </p>
