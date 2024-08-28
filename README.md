@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minula Vihanga.</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka.</h3>
+<h3 align="center">Passionate IT Student | Exploring the World Full of Technologies</h3>
 <hr>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=admv2001&label=Profile%20views&color=0e75b6&style=flat" alt="admv2001" /> </p>
