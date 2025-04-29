@@ -3,13 +3,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=admv2001&label=Profile%20views&color=0e75b6&style=flat" alt="admv2001" /> </p>
 <hr>
 
-- 🌱 I’m currently learning **Java, JavaScript and MERN Stack.**
+- I’m currently learning **Java, JavaScript and MERN Stack.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ADMV2001](https://github.com/ADMV2001)
+- All of my projects are available at [https://github.com/ADMV2001](https://github.com/ADMV2001)
 
-- 👨‍🎓 I'm an undergraduate of Software Engineering at **NSBM Green University.**
+- I'm an undergraduate of Software Engineering at **NSBM Green University.**
 
-- 📫 How to reach me **minulavihanga70@gmail.com**
+- How to reach me **minulavihanga70@gmail.com**
 
 <hr>
 
